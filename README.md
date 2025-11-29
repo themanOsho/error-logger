@@ -79,8 +79,4 @@ No — data is only read and immediately sent to Slack.
 ---
 
 ## 💬 Support
-
-## 💬 Support
 For questions or suggestions, feel free to contact [Joshua](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=oshojoshua004@gmail.com)
-
-Built with care by [Joshua](https://wa.me/2349049788099)
