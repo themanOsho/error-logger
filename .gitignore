@@ -1,0 +1,10 @@
+# WordPress / PHP / system
+/vendor/
+/node_modules/
+*.log
+*.sql
+*.env
+.DS_Store
+.idea/
+.vscode/
+nbproject/
